@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# OOP", "C# OOP", "{24055A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Inhertance and Polmerphism", "C# OOP\4_Inhertance and Polmerphism\4_Inhertance and Polmerphism.csproj", "{9D3F6214-A634-4430-9BB9-FC5A6D3FCDF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Struct Enum and Generics", "C# OOP\5_Struct Enum and Generics\5_Struct Enum and Generics.csproj", "{64542324-CADA-4FCE-A81B-450CFAD85784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Resturant App", "C# OOP\6_Resturant App\6_Resturant App.csproj", "{4D2ADA54-77B1-49B4-8ADE-5BF5561A5A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,14 @@ Global
 		{9D3F6214-A634-4430-9BB9-FC5A6D3FCDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D3F6214-A634-4430-9BB9-FC5A6D3FCDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D3F6214-A634-4430-9BB9-FC5A6D3FCDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64542324-CADA-4FCE-A81B-450CFAD85784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64542324-CADA-4FCE-A81B-450CFAD85784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64542324-CADA-4FCE-A81B-450CFAD85784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64542324-CADA-4FCE-A81B-450CFAD85784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2ADA54-77B1-49B4-8ADE-5BF5561A5A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2ADA54-77B1-49B4-8ADE-5BF5561A5A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2ADA54-77B1-49B4-8ADE-5BF5561A5A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2ADA54-77B1-49B4-8ADE-5BF5561A5A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,5 +80,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9D3F6214-A634-4430-9BB9-FC5A6D3FCDF6} = {24055A54-7B0D-4E28-80CF-9494AD22F231}
+		{64542324-CADA-4FCE-A81B-450CFAD85784} = {24055A54-7B0D-4E28-80CF-9494AD22F231}
+		{4D2ADA54-77B1-49B4-8ADE-5BF5561A5A59} = {24055A54-7B0D-4E28-80CF-9494AD22F231}
 	EndGlobalSection
 EndGlobal
